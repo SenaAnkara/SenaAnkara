@@ -12,6 +12,7 @@ Computer engineer and MSc student in Biomedical Engineering at Boğaziçi Univer
 - **EEG preprocessing for simultaneous EEG-fMRI** (MATLAB, EEGLAB): MR gradient and pulse artifact removal, ICA-based cleaning, spectral and band power analysis.
 - **Choroidal vessel segmentation in OCT images** (Python, U-Net, Attention U-Net): Senior project with an ophthalmologist, comparing deep learning models and thresholding for calculating the choroidal vascularity index.
 - **[The effect of road maintenance works on traffic](https://github.com/SenaAnkara/road-maintenance-traffic-impact)** (Python, pandas, scikit-learn, ipyleaflet): Matching Istanbul road maintenance announcements with traffic speed data and predicting average speed.
+- **[Predicting mental health scores from music listening habits](https://github.com/SenaAnkara/music-mental-health-prediction)** (Python, scikit-learn, Keras): Course project on a Kaggle survey dataset, with random forest, linear regression and neural network models.
 - **Dermatophyte species detection** (Python, CNN, YOLOv5): Labeling microscope images and applying deep learning models at ASIL LAB.
 
 ## Skills
